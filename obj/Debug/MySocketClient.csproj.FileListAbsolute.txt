@@ -1,0 +1,5 @@
+c:\users\jay-vaio\documents\visual studio 2013\Projects\MySocketClient\MySocketClient\bin\Debug\MySocketClient.exe.config
+c:\users\jay-vaio\documents\visual studio 2013\Projects\MySocketClient\MySocketClient\bin\Debug\MySocketClient.exe
+c:\users\jay-vaio\documents\visual studio 2013\Projects\MySocketClient\MySocketClient\bin\Debug\MySocketClient.pdb
+c:\users\jay-vaio\documents\visual studio 2013\Projects\MySocketClient\MySocketClient\obj\Debug\MySocketClient.exe
+c:\users\jay-vaio\documents\visual studio 2013\Projects\MySocketClient\MySocketClient\obj\Debug\MySocketClient.pdb
